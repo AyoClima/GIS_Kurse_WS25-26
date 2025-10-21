@@ -12,7 +12,7 @@ Students learn spatial data management, field mapping, and cartographic visualiz
 ---
 
 ## 📂 Repository Structure
-- `01_course_materials/` – Syllabus, slides, and readings  
+- `01_slides/` – lectures and tutorials 
 - `02_data/` – Datasets for exercises and projects  
 - `04_projects/` – Student or group projects  
 - `05_outputs/` – Example maps and final results  
