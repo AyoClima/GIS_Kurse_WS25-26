@@ -1,4 +1,4 @@
-# 🌍 GIS and Environmental Mapping Course – Winter Semester 2025
+# 🌍 GIS – UCF - Winter Semester 2025/26
 
 Welcome to the official repository of the GIS Course at the University College Freiburg.  
 This space centralizes all materials, datasets, exercises, and example projects developed during the semester.
@@ -8,18 +8,6 @@ This space centralizes all materials, datasets, exercises, and example projects 
 ## 📘 Course Overview
 This course introduces Geographic Information Systems (GIS) applied to environmental analysis.  
 Students learn spatial data management, field mapping, and cartographic visualization using **QGIS** and **open data sources**.
-
----
-
-## 🗓️ Course Structure
-| Week | Topic | Main Activity |
-|------|--------|---------------|
-| 1 | Introduction to GIS and QGIS interface | Lecture + QGIS demo |
-| 2 | Coordinate systems and projections | Practical exercise |
-| 3 | Field mapping and data collection | Outdoor session |
-| 4 | Symbolization and map design | QGIS layout |
-| 5 | Data analysis and spatial queries | Exercise |
-| 6 | Final project presentations | Group work |
 
 ---
 
