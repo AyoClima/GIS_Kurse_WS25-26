@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIS – First Day Padlet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f9fb;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    h1 {
+      color: #1a365d;
+      margin-top: 30px;
+    }
+    iframe {
+      width: 90%;
+      height: 800px;
+      border: none;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      margin-bottom: 40px;
+    }
+    p {
+      color: #333;
+      margin: 10px auto 20px;
+      width: 80%;
+    }
+  </style>
+</head>
+<body>
+  <h1>GIS Course – First Day Padlet</h1>
+  <p>Welcome! Here you can post your reflections and ideas from our first class 🌍✨</p>
+  
+  <iframe src="https://padlet.com/ayogeopcmt/gis-course-winter-semester-25-26-kx8e997qoq799ark?lang=en"></iframe>
+</body>
+</html>
