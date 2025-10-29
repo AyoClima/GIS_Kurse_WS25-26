@@ -3,6 +3,19 @@
 Welcome to the official repository of the GIS Course at the University College Freiburg.  
 This space centralizes all materials, datasets, exercises, and example projects developed during the semester.
 
+## 🔗 Assignment Links
+
+###  Lecture 01 – Spatial Thinking  
+[Accept Assignment](https://classroom.github.com/a/fAEJs09s)
+
+### Lecture 02 and 03 – Urban Mapping and Layout Design  
+[Accept Assignment](https://classroom.github.com/a/4gbjyX7m)
+
+### Lecture 04 – Rivers, Lakes, and Neighborhoods  
+[Accept Assignment](https://classroom.github.com/a/tozG4lAi)
+
+### Lecture 05 – Rivers, Lakes, and Buildings  
+[Accept Assignment](https://classroom.github.com/a/CFeACsR2)
 ---
 
 ## 📘 Course Overview
