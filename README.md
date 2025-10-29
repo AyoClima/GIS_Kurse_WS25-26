@@ -3,6 +3,14 @@
 Welcome to the official repository of the GIS Course at the University College Freiburg.  
 This space centralizes all materials, datasets, exercises, and example projects developed during the semester.
 
+---
+
+## 📘 Course Overview
+This course introduces Geographic Information Systems (GIS) applied to environmental analysis.  
+Students learn spatial data management, field mapping, and cartographic visualization using **QGIS** and **open data sources**.
+
+---
+
 ## 🔗 Assignment Links
 
 ###  Lecture 01 – Spatial Thinking  
@@ -16,11 +24,7 @@ This space centralizes all materials, datasets, exercises, and example projects 
 
 ### Lecture 05 – Rivers, Lakes, and Buildings  
 [Accept Assignment](https://classroom.github.com/a/CFeACsR2)
----
 
-## 📘 Course Overview
-This course introduces Geographic Information Systems (GIS) applied to environmental analysis.  
-Students learn spatial data management, field mapping, and cartographic visualization using **QGIS** and **open data sources**.
 
 ---
 
